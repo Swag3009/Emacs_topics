@@ -68,6 +68,6 @@
 ## Article Links: 
 [How to organize workflow using org-mode written in a simple, nontechnical, writing style](https://orgmode.org/worg/org-tutorials/org4beginners.html)\
 [Begginer's guide to emacs](https://www.masteringemacs.org/article/beginners-guide-to-emacs)\
-[Why emacs is sexy](https://emacs.sexy/)\
+[Emacs is sexy!](https://emacs.sexy/)\
 [Why emacs](https://batsov.com/articles/2011/11/19/why-emacs/)\
 [How to open file in emacs](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
