@@ -1,6 +1,6 @@
 # Emacs_topics
 ### Emacs Basics:
-- [x] Understanding the Emacs interface.
+- [ ] Understanding the Emacs interface.
 - [x] Navigating buffers and windows.
 - [x] Basic editing commands.
         
