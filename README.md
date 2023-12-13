@@ -71,3 +71,6 @@
 [Emacs is sexy!](https://emacs.sexy/)\
 [Why emacs](https://batsov.com/articles/2011/11/19/why-emacs/)\
 [How to open file in emacs](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
+[How to blog with Emacs]([https://opensource.com/article/20/8/vim-to-emacs](https://opensource.com/article/20/3/blog-emacs)https://opensource.com/article/20/3/blog-emacs)
+[6 things you should be doing with emacs](https://opensource.com/article/20/1/emacs-cheat-sheet)
+
