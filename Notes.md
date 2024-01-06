@@ -19,3 +19,5 @@
 - M-Shft-< : Move to beginning of whole text
 - M-Shft-> : Move to end of whole text
 - C-u digits command : Give command a repeat count. *(Numeric argument is also called a **"Prefix argument"**)*
+### Windows
+- C-x 1 : One window
