@@ -22,7 +22,7 @@
 ### Basic Operations
 - C-d : Delete the next character after the cursor
 - M-d : Delete the next word after the cursor
-- M-<DEL> : Kill the word immediately before the cursor
+- M-<delet> : Kill the word immediately before the cursor
 - C-k : Kill from the cursor postition to the end of the line
 - M-k : Kill to the end of the current sentence
 - C-<SPC> : Highlight selected space
