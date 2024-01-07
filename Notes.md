@@ -22,10 +22,10 @@
 ### Basic Operations
 - C-d : Delete the next character after the cursor
 - M-d : Delete the next word after the cursor
-- M-<delet> : Kill the word immediately before the cursor
+- M-(DEL) : Kill the word immediately before the cursor
 - C-k : Kill from the cursor postition to the end of the line
 - M-k : Kill to the end of the current sentence
-- C-<SPC> : Highlight selected space
+- C-(SPC) : Highlight selected space
 - C-w : Kills all the text between selected postition
 *(Defference between **Killing** and **Deleting** is that killed text can be reinserted, which is also called yanking, but we can only undo deleted text)*
 - C-y : Yanking, *(**killing - cutting**, **yanking-pasting**)*
