@@ -1,6 +1,4 @@
 # Emacs_topics
-![How to learn mindmap](./How-to-Learn-Emacs-v2-Large.png)
-![How to learn mindmap](./How-to-Learn-Emacs8.png)
 ### Emacs Basics:
 - [x] Understanding the Emacs interface.
 - [x] Navigating buffers and windows.
