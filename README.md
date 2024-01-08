@@ -24,8 +24,8 @@
 - [ ] Creating and modifying key bindings.
 
 ### File and Text Manipulation:
-- [ ] Opening, saving, and closing files.
-- [ ] Searching and replacing text.
+- [x] Opening, saving, and closing files.
+- [x] Searching and replacing text.
 - [ ] Working with multiple files.
 
 ### Code Navigation:
