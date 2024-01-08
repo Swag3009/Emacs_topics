@@ -18,7 +18,7 @@
 - M-e : Move to end of sentence
 - M-Shft-< : Move to beginning of whole text
 - M-Shft-> : Move to end of whole text
-- C-u digits command : Give command a repeat count. *(Numeric argument is also called a **"Prefix argument"**)*
+- C-u *digits* *command* : Give command a repeat count. *(Numeric argument is also called a **"Prefix argument"**)*
 ### Basic Operations
 - C-d : Delete the next character after the cursor
 - M-d : Delete the next word after the cursor
@@ -35,9 +35,33 @@
 - C-x C-f : Find file
 - C-x C-s : Save the file
 - C-x C-b : List of buffers
-- C-x b <buffer's name> : Switch to a buffer
+- C-x b *buffer's name* : Switch to a buffer
 - C-x s : Save some buffer
 - C-x : Ecit Emacs temporarily
+- C-h m: View documentation on current major mode
+- M-x auto-fill-mode : Turn on or off Auto Fill mode
+- M-q : Refill the paragraph, with cursor inside the paragraph
+- C-s : Forward search
+- C-r : Reverse search
+- (ESC) (ESC) (ESC) : This is an all purpose ***get out*** command
+  - To get out of recursive editing level
+  - Eliminating extre windows
+  - Getting out of minibuffer
+### Help
+- C-h : Help
+- C-h c *command* : Brief description of command
+- C-h k *command* : More information about the command
+- C-h f *funcation_name* : Describe function
+- C-h v *variable_name* : Document of variable
+- C-h a *keyword* : Displays all commands whose name contains the keyword
+- C-h i : Read included manuals
 ### Windows
 - C-x 1 : One window
+- C-x 2 : Splits screen into 2 windows
+- C-M-v : Scrolls the bottom window
+- C-x o : Switch between windows
+- C-x 4 C-f (name of file) : Specified file appear in bottom window
+- C-x 5 2 : New frame on screen
+- C-x 5 0 : Removes the selected frame
+
 
