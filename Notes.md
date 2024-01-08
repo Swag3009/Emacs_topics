@@ -1,7 +1,7 @@
 ## Commands
 - C-x C-c : End Emacs session
 - C-g : Quit partially entered command. *(If emacs stops responding to your command, you can stop it using this command.)*
-- C-x k: Stop the tutorial
+- C-x k: Kill Buffer 
 #### Move
 - C-v : Move forward one screenful
 - M-v : Move backward one screenful
