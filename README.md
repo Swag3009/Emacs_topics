@@ -2,9 +2,9 @@
 ![How to learn mindmap](./How-to-Learn-Emacs-v2-Large.png)
 ![How to learn mindmap](./How-to-Learn-Emacs8.png)
 ### Emacs Basics:
-- [ ] Understanding the Emacs interface.
-- [ ] Navigating buffers and windows.
-- [ ] Basic editing commands.
+- [x] Understanding the Emacs interface.
+- [x] Navigating buffers and windows.
+- [x] Basic editing commands.
         
 ### Buffers and Windows:
 - [ ] Understanding buffers.
@@ -12,9 +12,9 @@
 - [ ] Splitting and managing windows.
 
 ### Basic Editing Commands:
-- [ ] Cut, copy, and paste.
-- [ ] Undo and redo.
-- [ ] Searching and replacing.
+- [x] Cut, copy, and paste.
+- [x] Undo and redo.
+- [x] Searching and replacing.
         
 ### Modes:
 - [ ] Understanding major and minor modes.
