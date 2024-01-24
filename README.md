@@ -5,9 +5,9 @@
 - [x] Basic editing commands.
         
 ### Buffers and Windows:
-- [ ] Understanding buffers.
-- [ ] Working with multiple buffers.
-- [ ] Splitting and managing windows.
+- [x] Understanding buffers.
+- [x] Working with multiple buffers.
+- [x] Splitting and managing windows.
 
 ### Basic Editing Commands:
 - [x] Cut, copy, and paste.
