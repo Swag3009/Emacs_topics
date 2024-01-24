@@ -63,5 +63,11 @@
 - C-x 4 C-f (name of file) : Specified file appear in bottom window
 - C-x 5 2 : New frame on screen
 - C-x 5 0 : Removes the selected frame
-
+### Buffer
+- C-x b *buffer* : Select or create a buffer named *buffer*
+- C-x 4 b *buffer* : Select buffer in another window
+- C-x 5 b *buffer* : Select buffer in a separate frame
+- C-x (LEFT) : Select previous buffer in buffer list
+- C-x (RIGHT) : Select the next buffer in the buffer list
+- C-x b : Switch to buffer 
 
