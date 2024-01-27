@@ -62,6 +62,8 @@
 - C-x o : Switch between windows
 - C-x 4 C-f (name of file) : Specified file appear in bottom window
 - C-x 5 2 : New frame on screen
+- C-x 5 f : Load a new file in new frame
+- C-x 5 b : Open an existing buffer in a new frame
 - C-x 5 0 : Removes the selected frame
 ### Buffer
 - C-x b *buffer* : Select or create a buffer named *buffer*
