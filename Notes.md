@@ -56,6 +56,7 @@
 - C-h v *variable_name* : Document of variable
 - C-h a *keyword* : Displays all commands whose name contains the keyword
 - C-h i : Read included manuals
+- C-h P : desscribe package
 ### Windows
 - C-x 1 : One window
 - C-x 2 : Splits screen into 2 windows
@@ -72,5 +73,6 @@
 - C-x 5 b *buffer* : Select buffer in a separate frame
 - C-x (LEFT) : Select previous buffer in buffer list
 - C-x (RIGHT) : Select the next buffer in the buffer list
-- C-x b : Switch to buffer 
+- C-x b : Switch to buffer
+- C-x 4 m: Check the message buffer
 
