@@ -26,7 +26,7 @@
 ### File and Text Manipulation:
 - [x] Opening, saving, and closing files.
 - [x] Searching and replacing text.
-- [ ] Working with multiple files.
+- [x] Working with multiple files.
 
 ### Code Navigation:
 - [ ] Moving between functions and sections.
