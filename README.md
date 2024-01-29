@@ -20,7 +20,7 @@
 
 ### Customization:
 - [x] Configuring Emacs settings.
-- [ ] Installing and managing packages.
+- [x] Installing and managing packages.
 - [ ] Creating and modifying key bindings.
 
 ### File and Text Manipulation:
