@@ -20,6 +20,7 @@
 - M-Shft-< : Move to beginning of whole text
 - M-Shft-> : Move to end of whole text
 - C-u *digits* *command* : Give command a repeat count. *(Numeric argument is also called a **"Prefix argument"**)*
+- C-u *line number* M-g M-g : Jump to line number
 ### Basic Operations
 - C-d : Delete the next character after the cursor
 - M-d : Delete the next word after the cursor
