@@ -83,4 +83,21 @@
 - M-p : magit section backward siblings
 - M-n : magit section forward siblings
 - ^ : magit section up
+- TAB : magit section toggle
+- C-(TAB) : magit section cycle
+- M-(TAB) : magit section cycle diffs
+- S-(TAB) : magit section cycle global
+- H : Shows information about the section in a separate buffer
+- $ : Displays process buffer for current repository
+- k : kills the process represented by the section at point
+- ! : magit run
+- ! ! : reads a command from the user and executes it in the top-level directory of the current working tree
+- : : magit git command
+- ! p : reads command form user and executes in defaulth directory
+- ! s : magit shell command executes in top-level directory of the current working tree
+- ! S : magit shell command executes in default directory 
+- ! k : magit run gitk
+- ! a : magit run gitk all
+- ! b : magit run git branches
+- ! g : magit run git gui
 
