@@ -76,4 +76,11 @@
 - C-x (RIGHT) : Select the next buffer in the buffer list
 - C-x b : Switch to buffer
 - C-x 4 m: Check the message buffer
+### Magit 
+- C-x g : Status buffer
+- n : magit section forward
+- p : magit section backward
+- M-p : magit section backward siblings
+- M-n : magit section forward siblings
+- ^ : magit section up
 
