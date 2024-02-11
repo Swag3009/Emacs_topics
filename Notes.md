@@ -30,6 +30,7 @@
 - C-(SPC) : Highlight selected space
 - C-w : Kills all the text between selected postition
 *(Defference between **Killing** and **Deleting** is that killed text can be reinserted, which is also called yanking, but we can only undo deleted text)*
+- M-w : Copy
 - C-y : Yanking, *(**killing - cutting**, **yanking-pasting**)*
 - C-/ : Undo
 - C-_ : Undo
