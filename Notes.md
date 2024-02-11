@@ -3,7 +3,7 @@
 - C-g : Quit partially entered command. *(If emacs stops responding to your command, you can stop it using this command.)*
 - C-x k : Kill Buffer
 - C-x d : Open directory
-#### Move
+### Move
 - C-v : Move forward one screenful
 - M-v : Move backward one screenful
 - C-l : Move the text around the cursor to the center of screen
