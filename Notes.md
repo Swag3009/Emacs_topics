@@ -102,4 +102,18 @@
 - ! a : magit run gitk all
 - ! b : magit run git branches
 - ! g : magit run git gui
+### neotree
+- n : next line
+- p : previous line
+- SPC / RET / TAB : open current item if file or fold, unfold directory
+- U : Go up a directory
+- g : refresh
+- A : maximize or minimize NeoTree window
+- H : Toggle display hidden files
+- O : Recursively open a directory
+- C-c C-n : Create file or directory (dirName/)
+- C-c C-d : Delete a file or directory
+- C-c C-r : Rename file or directory
+- C-c C-c : Change the root directory
+- C-c C-p : Copy a file or directory
 
