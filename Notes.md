@@ -3,6 +3,7 @@
 - C-g : Quit partially entered command. *(If emacs stops responding to your command, you can stop it using this command.)*
 - C-x k : Kill Buffer
 - C-x d : Open directory
+- C-x d + : new directory
 ### Move
 - C-v : Move forward one screenful
 - M-v : Move backward one screenful
@@ -61,6 +62,7 @@
 - C-h a *keyword* : Displays all commands whose name contains the keyword
 - C-h i : Read included manuals
 - C-h P : desscribe package
+- c-h m : help about specific module
 ### Windows
 - C-x 1 : One window
 - C-x 2 : Splits screen into 2 windows
@@ -117,4 +119,10 @@
 - C-c C-r : Rename file or directory
 - C-c C-c : Change the root directory
 - C-c C-p : Copy a file or directory
+### html
+- C-c / : close tag
+- C-c ] : close tag
+- C-c DEL : delet tag
+- C-c *left* : skip tag backward
+- C-c *right* : skip tag forward
 
