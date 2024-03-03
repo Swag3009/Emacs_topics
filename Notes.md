@@ -49,6 +49,8 @@
 - M-q : Refill the paragraph, with cursor inside the paragraph
 - C-s : Forward search
 - C-r : Reverse search
+- C-t : switch 2 letters
+- M-t : swtich 2 words
 - (ESC) (ESC) (ESC) : This is an all purpose ***get out*** command
   - To get out of recursive editing level
   - Eliminating extre windows
