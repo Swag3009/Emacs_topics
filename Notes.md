@@ -122,6 +122,25 @@
 | **! a**                             | Run gitk all                                                                               |
 | **! b**                             | Run git branches                                                                           |
 | **! g**                             | Run git gui                                                                                |
+| **c c**                             | Commit changes                                                                             |
+| **s**                               | Stage changes                                                                              |
+| **u**                               | Unstage changes                                                                            |
+| **P P**                             | Push changes                                                                               |
+| **F F**                             | Pull changes                                                                               |
+| **b b**                             | Create or switch branch                                                                    |
+| **b c**                             | Checkout branch/commit                                                                     |
+| **d**                               | Show diff                                                                                  |
+| **l l**                             | Show log                                                                                   |
+| **m m**                             | Merge branch                                                                               |
+| **r r**                             | Rebase interactively                                                                       |
+| **x x**                             | Reset branch                                                                               |
+| **z z**                             | Stash changes                                                                              |
+| **z p**                             | Pop stash                                                                                  |
+| **F f**                             | Fetch changes                                                                              |
+| **b l**                             | Blame mode                                                                                 |
+| **A**                               | Cherry-pick commit                                                                         |
+| **v**                               | Revert commit                                                                              |
+
 
 ### Neotree
 | **Command**                         | **Description**                                                                            |
